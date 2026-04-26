@@ -8,3 +8,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Web app
+web/node_modules/
+web/dist/
